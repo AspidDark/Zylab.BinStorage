@@ -6,10 +6,10 @@ NewtonsiftJson
 
 <h2>Descrition:</h2>
 
-All file size limits applied from setup.
-As a cacheing was chosen Limited by memory Hashtable(object inserted\deleted according to read count).Cacheing file could be settuped
-Used minimal(as I think) locking schema
-Saveing to index file uses Bson serializer, not best approch but rwiting own good working srilizer would be long sory
+<p>All file size limits applied from setup.</p>
+<p>As a cacheing was chosen Limited by memory Hashtable(object inserted\deleted according to read count).Cacheing file could be settuped.</p>
+<p>Used minimal(as I think) locking schema.</p>
+<p>Saveing to index file uses Bson serializer, not best approch but rwiting own good working srilizer would be long sory.</p>
 
 <h2>Limitation:</h2>
 
