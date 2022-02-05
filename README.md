@@ -1,6 +1,6 @@
 # Zylab.BinStorage
 
-Used 3rd party libraries
+Used 3rd party libraries:
 
 NewtonsiftJson
 
